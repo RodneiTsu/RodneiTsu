@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo, sou a Rodnei Tsumoto!</h1>
+<h1 align="center">Bem vindo, sou Rodnei Tsumoto!</h1>
 
 
 ###  Sobre mim🙋🏻‍♂️
